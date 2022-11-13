@@ -1,0 +1,107 @@
+body {
+    font-family: roboto;
+}
+
+/* Menu */
+.menu-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #194569;
+}
+
+.menu-li {
+    float: left;
+}
+
+.menu-li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu-li a:hover:not(.active) {
+    background-color: #5f5f5f;
+}
+
+/* Imagen de INICIO */
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.centrado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #91AEC4;
+    opacity: 0.4;
+}
+
+.titulo-index {
+    font-size: 6rem;
+    color: #8700e1;
+}
+
+/*Card*/
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px 16px;
+  }
+
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 20px;
+    column-gap: 20px;
+}
+
+/*Juegos*/
+.wrapper-juegos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 600px;
+    height: 400px;
+}
+
+/*Contactos*/
+.contc {
+    text-align: left;
+    margin-left: 3em;
+    margin-top: 1em;
+}
+
+.min {
+    color: orange;
+    font-size: 2em;
+}
+
+.letra {
+    font-size: 1.5em;
+}
+
+.ubicacion {
+    border-radius: 15%;
+    float:right;
+    padding: 5px;
+    margin: 80px;
+    border: orange solid;
+    width: 700px;
+    height: auto;
+}
