@@ -33,19 +33,33 @@ body {
     display: inline-block;
     text-align: center;
 }
-
-.centrado {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #91AEC4;
-    opacity: 0.4;
+.baner {
+    background-image: url(/img/6755f337-banner-producto-case.jpg);
+    background-position: center;
+    height: 200px;
+    padding: 35px;
 }
 
-.titulo-index {
-    font-size: 6rem;
-    color: #8700e1;
+
+
+.centrado {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+.info {
+    text-align: left;
+    margin-left: 50px;
+    font-size: 35px;
+}
+
+/*Equipos*/
+.color_fondo {
+    background-color: #D9AFD9;
+    background-image: linear-gradient(0deg, #D9AFD9 0%, #97D9E1 100%);
 }
 
 /* Popup de equipos 
@@ -169,6 +183,14 @@ haciendo una simple transición de medio segundo.
 }
 
 /*Juegos*/
+.trailer {
+    background-color: white;
+}
+
+.gamerfon {
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #71ff70 100%);
+}
 .wrapper-juegos {
     display: grid;
     grid-template-columns: repeat(3, 30%);
@@ -202,6 +224,11 @@ haciendo una simple transición de medio segundo.
 }
 
 /*Contactos*/
+.fon{
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 0%, #FFFB7D 100%);
+}
+
 .contc {
     text-align: left;
     margin-left: 3em;
@@ -221,8 +248,8 @@ haciendo una simple transición de medio segundo.
     border-radius: 15%;
     float:right;
     padding: 5px;
-    margin: 80px;
+    margin: 30px;
     border: orange solid;
-    width: 700px;
+    width: 600px;
     height: auto;
 }

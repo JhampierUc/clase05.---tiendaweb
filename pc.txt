@@ -1,4 +1,4 @@
-1.
+1. Aspire AZ1-611-RC11
 intel Quad Core Celeron J1900 2.0GHz
 Pantalla LED 19.5'' HD (1600x900) 
 4GB RAM / Disco Duro 500GB
@@ -7,16 +7,16 @@ DVD ± RW, WiFi, Teclado y mouse.
 Windows 10 Home
 S/. 1,199.00
 
-2.
-Procesador: Intel G4900 3.1 GHz, 2MB de doble núcleo
-Mainboard: Intel H310 Gigabyte 
-Memoria RAM: 8 GB DDR4-2666 MHz 
-Disco Duro Sólido: SSD 256GB ó HDD 1TB
-Case Mid Tower + Fuente de 350W 
-Teclado y Mouse Logitech MK120 
-S/. 1,399.00
+2. PC MAGIC STUDIO - GRAN PODER DE COMPUTO PARA EL DIA A DIA
+Procesador: Intel Core i5-10400 2.9 / 4.3 GHz, 6 Núcleos, 12 MB Caché
+Memoria RAM: 8GB DDR4 3200 MHz Ampliable
+Disco Solido: SSD 480GB 
+Case Mid Tower + Fuente 450W 
+Monitor: LG 24MK430 LED de 23.8" Full HD
+Otros: DVD RW, Teclado y Mouse USB
+S/. 2,999.00
 
-3.
+3. PC MAGIC BASIC II - HOGAR / ESTUDIANTIL / TELETRABAJO
 Procesador: Intel Core i3-8100 3.6 GHz, 4 Núcleos, 6 MB Caché
 Mainboard: H310 Gigabyte 
 Memoria RAM: 8 GB DDR4-2666Mhz Ampliable
@@ -26,7 +26,7 @@ Case Mid Tower + Fuente 350W
 Teclado y Mouse USB 
 S/. 1,499.00
 
-4.
+4.HP Pavilion Gaming Laptop - 15-ec1037la / HP Pavilion 15-ec1037la / HP Pavilion Gaming 15-ec1037la / Latino
 AMD Ryzen 5 4600H 3.0GHz / 4.0 GHz, 6 núcleos 
 RAM 8 GB DDR4-3200GHz / Disco Duro SSD 512GB M.2 
 Pantalla FHD (1920 x 1080) de 15,6" con microbordes, antirreflejante, 220 nits, 45 % de NTSC
@@ -35,7 +35,7 @@ Teclado retroiluminado, USB Type-C, Wi-Fi, Bluetooth
  Windows 10 Home en español
 S/. 3,699.00
 
-5.
+5.HP Pavilion Gaming Laptop - 15-EC1037UP / HP Pavilion 15-EC1037UP / HP Pavilion Gaming 15-EC1037UP / Latino
 AMD Ryzen 5 4600H 3.0GHz / 4.0 GHz, 6 núcleos 
 RAM 12 GB DDR4-3200GHz / Disco Duro SSD 512GB M.2 
 Pantalla FHD (1920 x 1080) de 15,6" con microbordes, antirreflejante, 220 nits, 45 % de NTSC
@@ -44,7 +44,7 @@ Teclado retroiluminado, USB Type-C, Wi-Fi, Bluetooth
  Windows 11 Home en español
 S/. 3,999.00
 
-6.
+6.Asus TUF FX706HC-211 series / ASUS TUF Gaming F17 FX706-211 / Core i5-11400 / RTX 3050
 Intel Core i5-11260H 2.6 / 4.4 GHz, 6 núcleos - 11va Generación.
 RAM : 8 GB DDR4 / Disco Sólido SSD 512GB PCIe
 Pantalla 17.3" Full HD IPS, con 144Hz frecuencia de actualización 
