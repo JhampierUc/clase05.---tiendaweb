@@ -40,6 +40,9 @@ body {
     padding: 35px;
 }
 
+.fon {
+    background-color: #D9AFD9;
+}
 
 
 .centrado {
@@ -54,6 +57,7 @@ body {
     text-align: left;
     margin-left: 50px;
     font-size: 35px;
+    background-color: #D9AFD9;
 }
 
 /*Equipos*/
@@ -184,7 +188,13 @@ haciendo una simple transición de medio segundo.
 
 /*Juegos*/
 .trailer {
-    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.ubica {
+    text-decoration: none;
+    color: #F00;
 }
 
 .gamerfon {
